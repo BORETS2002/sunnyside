@@ -297,8 +297,8 @@ body {
 .hero {
   padding-top: 50px;
   padding-bottom: 294px;
-  background-position: calc(50%) calc(50% + -6px);
-  background-image: url("/images/tel-apilsin-.png");
+  background-position: calc(50%) calc(50%);
+  background-image: url("/images/desktop-apelsin-copy-0.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
